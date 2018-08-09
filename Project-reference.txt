@@ -1,0 +1,11 @@
+https://o7planning.org/en/10605/create-a-java-shopping-cart-web-application-using-spring-mvc-and-hibernate
+
+https://github.com/ikismail/ShoppingCart
+
+https://www.djamware.com/post/59b606e280aca768e4d2b13b/spring-boot-mvc-data-and-mongodb-crud-java-web-application
+
+https://bitbucket.org/marley-spring/building-an-e-commerce-store-using-java-spring-framework
+
+https://www.mkyong.com/spring-boot/spring-boot-hibernate-search-example/
+
+https://stackoverflow.com/questions/23832012/simple-search-in-spring-mvc
