@@ -1,0 +1,883 @@
+view-source:https://www.123formbuilder.com/free-form-templates/Online-Feedback-Form-275157/
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+    <!-- Google Optimize hiding snippet -->
+    <STYLE>.async-hide { opacity: 0 !important} </STYLE>
+    <SCRIPT>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+            h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+            (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+        })(window,document.documentElement,'async-hide','dataLayer',5000,
+            {'GTM-6PVX':true});</SCRIPT>
+
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport">
+    <meta charset="UTF-8"/>
+    <link rel="profile" href="https://gmpg.org/xfn/11"/>
+    <link rel="pingback" href="https://www.123formbuilder.com/site/xmlrpc.php"/>
+    <link rel="shortcut icon" href="https://cdn-main.123contactform.com/images3/logos/123-favicon@2x.png"/>
+    <!--<script async src="https://www.googletagmanager.com/gtag/js?id=UA-305159-24"></script> -->
+    <script type='text/javascript' src='/site/wp-content/themes/blankslate/js/not-movable-scripts.js?ver=1.1'></script>
+
+    <title>Free Online Feedback Form Template | 123FormBuilder</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v6.1.1 - https://yoa.st/1yg?utm_content=6.1.1 -->
+<meta name="description" content="Get your free online feedback form. Modify this online feedback form template and add it to your website in seconds. No coding required! Add multiple recipients, use file uploads, add third-party apps, and much more with 123FormBuilder. Experience the power of online forms!"/>
+<link rel="canonical" href="https://www.123formbuilder.com/free-form-templates/Online-Feedback-Form-275157/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Free Online Feedback Form Template | 123FormBuilder" />
+<meta property="og:description" content="Get your free online feedback form. Modify this online feedback form template and add it to your website in seconds. No coding required! Add multiple recipients, use file uploads, add third-party apps, and much more with 123FormBuilder. Experience the power of online forms!" />
+<meta property="og:url" content="https://www.123formbuilder.com/free-form-templates/Online-Feedback-Form-275157/" />
+<meta property="og:site_name" content="123FormBuilder" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="Get your free online feedback form. Modify this online feedback form template and add it to your website in seconds. No coding required! Add multiple recipients, use file uploads, add third-party apps, and much more with 123FormBuilder. Experience the power of online forms!" />
+<meta name="twitter:title" content="Free Online Feedback Form Template | 123FormBuilder" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//cdn-main1.123contactform.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="123FormBuilder &raquo; Feed" href="https://www.123formbuilder.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="123FormBuilder &raquo; Comments Feed" href="https://www.123formbuilder.com/comments/feed/" />
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel='https://api.w.org/' href='https://www.123formbuilder.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.123formbuilder.com/site/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.123formbuilder.com/site/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.1" />
+<link rel='shortlink' href='https://www.123formbuilder.com/?p=8931' />
+<meta name="generator" content="WPML ver:3.8.4 stt:38,1,4,3,27,64,46,2,54;" />
+                
+                                
+                            
+            		
+	
+
+        <meta name="norton-safeweb-site-verification"
+          content="udcmsphte-wd1ggjkuyasr390rtdkhy5bzggct3icd7l54c2-5cz-i5y7ltndz3-bnxzp4g25qvyv6gyj3nx79-su7wa86sdr86qej8134ygmhhmqtls8b71t3so9huo"/>
+    
+    
+                            <script type="application/ld+json">
+        {"@type":"Article","url":"https:\/\/www.123formbuilder.com\/free-form-templates\/Online-Feedback-Form-275157\/","author":{"@type":"Person","name":"admin"},"headline":"Online Feedback Form","datePublished":"2018-04-04 05:59:45","image":false,"ArticleSection":null,"Publisher":"123FormBuilder"}
+    </script>
+    
+
+
+<!-- optimized css code -->
+
+<link rel="stylesheet" type="text/css" href="https://www.123formbuilder.com/site/wp-content/themes/blankslate/css/footer-menu.css.minified.css?ver=e607519201" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.123formbuilder.com/site/wp-content/themes/blankslate/css/general-styles.css.minified.css?ver=e607519201" media="all" />
+<link rel="stylesheet" type="text/css" href="//cdn-main1.123contactform.com/includes/css/backend/iconfont.css.minified.css?ver=e607519201" media="all" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto%3A100%2C300%2C300i%2C400%2C400i%2C500%2C900&#038;ver=4.8.1" media="all" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C300italic%2C600%3F062028572f&#038;ver=4.8.1" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.123formbuilder.com/site/wp-content/themes/blankslate/css/header-menu.css.minified.css?ver=e607519201" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.123formbuilder.com/site/wp-content/themes/blankslate/css/bootstrap.css?ver=e607519201" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.123formbuilder.com/site/wp-content/themes/blankslate/css/owl.carousel.css?ver=e607519201" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.123formbuilder.com/site/wp-content/themes/blankslate/css/owl.theme.default.css?ver=e607519201" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.123formbuilder.com/site/wp-content/themes/blankslate/css/landings/free-form-templates.css?ver=e607519201" media="all" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans"  />
+<style><!--
+                    
+            @font-face {
+                font-family: 'aslsicons2';
+                src: url('https://www.123formbuilder.com/site/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot');
+                src: url('https://www.123formbuilder.com/site/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot?#iefix') format('embedded-opentype'),
+                     url('https://www.123formbuilder.com/site/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff2') format('woff2'),
+                     url('https://www.123formbuilder.com/site/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff') format('woff'),
+                     url('https://www.123formbuilder.com/site/wp-content/plugins/ajax-search-lite/css/fonts/icons2.ttf') format('truetype'),
+                     url('https://www.123formbuilder.com/site/wp-content/plugins/ajax-search-lite/css/fonts/icons2.svg#icons') format('svg');
+                font-weight: normal;
+                font-style: normal;
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label {
+                font-size: 0px !important;
+                color: rgba(0, 0, 0, 0);
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label:after {
+                font-size: 11px !important;
+                position: absolute;
+                top: 0;
+                left: 0;
+                z-index: 1;
+            }
+            div[id*='ajaxsearchlite'].wpdreams_asl_container {
+                width: 100%;
+                margin: 0px 0px 0px 0px;
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results div.resdrg span.highlighted {
+                font-weight: bold;
+                color: rgba(217, 49, 43, 1);
+                background-color: rgba(238, 238, 238, 1);
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results .results div.asl_image {
+                width: 70px;
+                height: 70px;
+            }
+            div.asl_r .results {
+                max-height: none;
+            }
+                                --></style>
+<style></style>
+<link rel="stylesheet" type="text/css" href="//cdn-main2.myfor.ms/includes/cookie-policy/css/cookie-policy.css.minified.css?e607519201"  />
+<!-- end optimized css code --></head>
+<body class="free-form-templates-template-default single single-free-form-templates postid-8931">
+
+
+    <!-- Google Tag Manager Body -->
+    <noscript>
+        <iframe
+                src="//www.googletagmanager.com/ns.html?id=GTM-6PVX"
+                height="0"
+                width="0"
+                style="display:none;visibility:hidden"
+        ></iframe>
+    </noscript>
+    <!-- End Google Tag Manager Body -->
+    
+
+
+<div id="site_wrapper">
+    <div id="wrapperHeader">
+        <div class='bootstrap-iso'>
+            <div  id="burger-buttonv2" class="push-toggle push-toggle-right pull-right ">
+
+                <div class="pull-right" data-toggle="push" data-target="#sidebar-right" data-distance="-350">
+                    <span class="i-md i123-filter" aria-hidden="true"></span>
+
+                </div>
+
+            </div>
+        </div>
+        <div>
+
+            <div id="logo_white" class="header-cell">
+                <a href="https://www.123formbuilder.com">
+                    <img src="https://cdn-main.123contactform.com/images3/logos/123FormBuilder-27px@2x.png" title="123FormBuilder Web Form Builder" alt="123FormBuilder Web Form Builder"/>
+                </a>
+            </div>
+
+            <!-- Menu button -->
+                        <div id="signup-request-buttons_outside" class="signup-request-buttons_outside visible-link-sm">
+                            <div class="menu_req_btn">
+            <a class="menu_main_cta "  href="/index.php?p=new_user&plan=0">
+            SIGN UP</a>
+              </div>            </div>
+
+            <div id="sidebar_right_scoolbar">
+                <div id="sidebar-right"  class="navbar push-sidebar push-sidebar-right hidden">
+
+                    <div  class="signup-request-buttons_small ">
+                        <div class="visible-link-sm2">
+                                        <div class="menu_req_btn">
+            <a class="menu_main_cta "  href="/index.php?p=new_user&plan=0">
+            SIGN UP</a>
+              </div>                        </div>
+                    </div>
+
+
+                    <div class="link_menu_position">
+
+                        <div id="headerUses" class="menu_item_header  menu_header_dropdown ">
+                            <div  class="menu_item_link remove_pointer">
+                                <a href="#" title="Uses"  >
+                                    Uses</a>
+                            </div>
+                            <div id="otherUsesLink" class="menu_header_dropdown-content">
+
+                                                                    <div class="menu_header_nav-sublink">
+                                        <a href="/web-forms/" title="Web forms" >Web forms<div class="arrow_menu"> <span class="i-md i123-arrow_right" aria-hidden="true"></span></div></a>
+                                    </div>
+
+                                    <div class="menu_header_nav-sublink">
+                                        <a href="/contact-form-generator/" title="Contact form" >Contact form<div class="arrow_menu"> <span class="i-md i123-arrow_right" aria-hidden="true"></span></div></a>
+                                    </div>
+
+                                
+                                                                        <div class="menu_header_nav-sublink">
+                                            <a href="/online-order-form/"  title="Order Form" >Order Form<div class="arrow_menu"> <span class="i-md i123-arrow_right" aria-hidden="true"></span></div></a>
+                                        </div>
+                                        <div class="menu_header_nav-sublink">
+                                            <a href="/event-registration-form/"  title="Event Registration Form" >Event Registration Form<div class="arrow_menu"> <span class="i-md i123-arrow_right" aria-hidden="true"></span></div></a>
+                                        </div>
+                                        <div class="menu_header_nav-sublink">
+                                            <a href="/online-survey-tool/"  title="Survey" >Survey<div class="arrow_menu"> <span class="i-md i123-arrow_right" aria-hidden="true"></span></div></a>
+                                        </div>
+                                        <div class="menu_header_nav-sublink">
+                                            <a href="/free-form-templates/"  title="More" >More<div class="arrow_menu"> <span class="i-md i123-arrow_right" aria-hidden="true"></span></div></a>
+                                        </div>
+                                                                </div>
+                        </div>
+                        <!--Corporate section-->
+
+
+                        <div id="headerPricing" class="menu_item_header  ">
+                            <div class="menu_item_link top-menu"><a href="/signup.html" title="Pricing">Pricing<div class="arrow_menu"> <span class="i-md i123-arrow_right" aria-hidden="true"></span></div></a></div>
+                        </div>
+                                                    <div id="headerEnterprise" class="menu_item_header  ">
+                                <div class="menu_item_link top-menu"><a href="/corporate/" title="Corporate" >Corporate <div class="arrow_menu"> <span class="i-md i123-arrow_right" aria-hidden="true"></span></div></a></div>
+                            </div>
+                        
+
+
+                        <div class="signup-request-buttons visible-link-big ">
+                                        <div class="menu_req_btn">
+            <a class="menu_main_cta "  href="/index.php?p=new_user&plan=0">
+            SIGN UP</a>
+              </div>                        </div>
+
+                        <div class="menu_login_btn top-menu ">
+
+                            <a class="menu_login_cta " href="/index.php?p=login">
+                                Login<div class="arrow_menu"> <span class="i-md i123-arrow_right" aria-hidden="true"></span></div></a>
+                        </div><!-- end Signup & Login buttons -->
+
+
+
+                    </div>
+                </div><!-- end main_menu -->
+            </div>
+        </div><!-- end header -->
+    </div><!-- end headerContainer -->
+
+
+<div id="fancy_page_wrapper">
+
+    <section id="content" role="main">
+        
+<!-- Modal -->
+<div class="modal fade" id="embedModal" role="dialog">
+    <div class="modal-dialog">
+        <span class="go-back-link" data-dismiss="modal"><span class="i123-arrow_left"></span>Go back</span>
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="cta black">
+                </div>
+                <a href="#" class="temp-title"><span class="i123-arrow-right2"></span><span class="learn-more">Learn more</span></a>
+            </div>
+            <div class="modal-body">
+
+                <div class="iframe-holder"></div>
+
+                <div class="loading">
+                    <div class="row">
+                        <div class="loading-bar"></div>
+                        <div class="loading-bar"></div>
+                        <div class="loading-bar"></div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div><!-- /Modal -->
+
+<div id="fft" class="single-fft">
+
+    <section id="header">
+
+        <div class="container">
+
+            <div class="breadcrumbs">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <ul class="breadcrumbs__head">
+                            <li>
+                                <a href="https://www.123formbuilder.com">Home</a>
+                            </li>
+                            <li>
+                                <a href="/free-form-templates/">Free Form Templates</a>
+                            </li>
+                            <li><a href="/free-form-templates/gallery-feedback-templates/" class="current_term">Feedback</a>                            </li>
+                        </ul>
+
+                        <div id="breadcrumbs-menu">
+                            <div class="breadcrumbs-menu">
+                                       <div class="breadcrumbs-menu__wrap " id="post-8931">
+        <ul>
+                        <li>
+                    <a href="/free-form-templates/360-Degree-Feedback-37843/">
+                        360 Degree Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Bank-Customer-Feedback-Form-3364411/">
+                        Bank Customer Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Customer-Feedback-Form-610642/">
+                        Customer Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Customer-Satisfaction-Survey-37155/">
+                        Customer Satisfaction Survey                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Fitness-Feedback-Form-3432161/">
+                        Fitness Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Food-Feedback-Form-3363643/">
+                        Food Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Gym-Feedback-Form-3526823/">
+                        Gym Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Hotel-Feedback-Form-3325140/">
+                        Hotel Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Library-Feedback-Form-3679007/">
+                        Library Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Meeting-Feedback-Survey-3896174/">
+                        Meeting Feedback Survey                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Parents-Feedback-Form-2543542/">
+                        Parents Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Patient-Satisfaction-Survey-922163/">
+                        Patient Satisfaction Survey                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Presentation-Feedback-Form-3554202/">
+                        Presentation Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Restaurant-Feedback-Form-3345062/">
+                        Restaurant Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Sales-Feedback-Form-3644609/">
+                        Sales Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Spa-Feedback-Form-3485065/">
+                        Spa Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Student-Feedback-Form-2379868/">
+                        Student Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Substitute-Feedback-Form-3554503/">
+                        Substitute Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Travel-Agency-Feedback-Form-3463510/">
+                        Travel Agency Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Website-Feedback-Form-3578633/">
+                        Website Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/Work-Experience-Feedback-Form-3883985/">
+                        Work Experience Feedback Form                     </a>
+                </li>
+
+                            <li>
+                    <a href="/free-form-templates/YouTube-Feedback-Form-248456/">
+                        YouTube Feedback Form                     </a>
+                </li>
+
+            </ul></div>                            </div>
+                        </div>
+
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="intro">
+
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12 col-xs-offset-0">
+                        <h1 class="title"> Online Feedback Form</h1>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-10 col-lg-offset-1 col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12 col-xs-offset-0">
+                        <h2 class="subtitle"> Collect feedback from your audience directly online and generate real-time reports that highlight what you need to know.</h2>
+                        <div class="cta yellow">
+                            <a class="use-btn" href="/index.php?p=form_template&action=usetemplate&tid=275157&template_plan=0" rel="nofollow" >Use template</a>                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="frame">
+
+                <div class="row">
+                    <div class="col-lg-12">
+
+                        <div class="template_box">
+
+                                                            <div class="plan">* Available Free</div>
+                                
+                            <div class="template_box__head">
+                                <div class="circles"><span></span></div>
+                            </div>
+
+                            <div class="template_box__inner">
+                        <div class="form-embed">
+
+                            <!-- www.123formbuilder.com script begins her -->
+                            <script type="text/javascript" defer
+                                    src="//www.123formbuilder.com/embed/275157.js"
+                                    data-role="form"></script>
+                            <!-- www.123formbuilder.com script ends here -->
+                        </div>
+                    </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section id="content" role="boxes">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-2 col-md-6 col-sm-6 col-xs-12 card">
+	<figure></figure>
+	<h4 class="title">Customize template</h4>
+	<a class="link" href="#" onclick="return false;">See how</a>
+	<p>This online feedback form sample is created with the 123FormBuilder engine that people are using worldwide for collecting data. To customize this form template you don't need any programming skills. You can simply personalize this feedback form as simple as 1-2-3. Start by adding, moving or removing fields with simple drag & drop. Next, use any of our 30+ themes or create your own design for the form with your brand colors and logo. Afterwards, configure email notifications and set up your reports to get the exact information you need from your audience. And this is just a part of 123FormBuilder can do. </p>
+
+	<div class="load">
+		<div class="bubble"></div>
+		<div class="load__inner">
+			<div class="load__inner_wrap"> 
+			<img src="//staticresources123.myfor.ms/site/other/landings/free-form-templates/customize.gif"></div>
+		</div>
+	</div>
+
+</div><div class="col-lg-5 col-lg-offset-2 col-md-6 col-sm-6 col-xs-12 card">
+	<figure></figure>
+	<h4 class="title">Publish template</h4>
+	<a class="link" href="#" onclick="return false;">See how</a>
+	<p>Sharing online feedback forms that are built with 123FormBuilder is easy. Once you have finished editing and configuring this template, head on to the <b>Publish</b> section and choose the publishing options. We provide options such as embedding the feedback form within your web page's code or sharing its direct link. And because it's a mobile-dependent world out there, this online feedback form template is mobile-responsive and can be used by any smartphone user.</p>
+
+	<div class="load">
+		<div class="bubble"></div>
+		<div class="load__inner">
+			<div class="load__inner_wrap"> 
+			<img src="//staticresources123.myfor.ms/site/other/landings/free-form-templates/publish.gif"></div>
+		</div>
+	</div>
+
+</div><div class="col-lg-5 col-lg-offset-2 col-md-6 col-sm-6 col-xs-12 card">
+	<figure></figure>
+	<h4 class="title">Collect &amp; manage data</h4>
+	<a class="link" href="#" onclick="return false;">See how</a>
+	<p>You can find and manage your responses in the <b>Submissions</b> section of the form. From there, you can export all the feedback that you've received. And in <b>Reports</b>, you can turn the raw data into valuable insights by creating custom reports with widgets and graphs. With 123FormBuilder, gathering feedback through online forms is a professional step for better success.</p>
+
+	<div class="load">
+		<div class="bubble"></div>
+		<div class="load__inner">
+			<div class="load__inner_wrap"> 
+			<img src="//staticresources123.myfor.ms/site/other/landings/free-form-templates/collect.gif"></div>
+		</div>
+	</div>
+
+</div><div class="col-lg-5 col-lg-offset-2 col-md-6 col-sm-6 col-xs-12 card">
+	<figure></figure>
+	<h4 class="title">Optimize your flow</h4>
+	<a class="link" href="#" onclick="return false;">See how</a>
+	<p>Online feedback forms are the backbone of any evaluation. So it's only natural that you pick the best solution that helps you grow and take awareness of your services - the good, the bad, the ugly. By optimizing your feedback collection process with 123FormBuilder, you can only win. And creating an online feedback form with 123FormBuilder is free of charge. </p>
+
+	<div class="load">
+		<div class="bubble"></div>
+		<div class="load__inner">
+			<div class="load__inner_wrap"> 
+			<img src="//staticresources123.myfor.ms/site/other/landings/free-form-templates/optimize.gif"></div>
+		</div>
+	</div>
+
+</div>            </div>
+        </div>
+    </section>
+
+        <section id="related" class="templates">
+        <div class="container">
+            <div class="row head">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h3>Other ready to use form templates</h3>
+                    <p>Browse through our 600+ web form templates and select the one that you need.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-lg-offset-0 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1 col-xs-12 col-xs-offset-0">
+
+                    <div class="owl-carousel owl-theme">
+
+                        
+<div class=" template item" >
+
+    <span class="formid hidden"></span>
+
+    <div class="template__inner template__inner--transition slidetop feedback">
+
+        <div class="plan_type free">free</div>
+
+        <h3>
+            <a href="/free-form-templates/Customer-Satisfaction-Survey-37155/" class="temp-title">Customer Satisfaction Survey</a>
+        </h3>
+
+        <p>
+            Get our customer satisfaction survey template for free and modify it as needed in your ...        </p>
+
+        <div class="cta black">
+            <a class="use-btn" href="/index.php?p=form_template&action=usetemplate&tid=37155&template_plan=0" rel="nofollow" >Use template</a>        </div>
+        <span class="preview" data-form-id="37155" data-form-plan="0" data-link="/free-form-templates/Customer-Satisfaction-Survey-37155/">Preview template</span>
+
+        <div class="clearfix"></div>
+
+    </div>
+
+</div>
+<div class=" template item" >
+
+    <span class="formid hidden"></span>
+
+    <div class="template__inner template__inner--transition slidetop feedback">
+
+        <div class="plan_type gold">gold</div>
+
+        <h3>
+            <a href="/free-form-templates/Restaurant-Feedback-Form-3345062/" class="temp-title">Restaurant Feedback Form</a>
+        </h3>
+
+        <p>
+            With this restaurant feedback form you can generate reports, receive feedback on email ...        </p>
+
+        <div class="cta black">
+            <a class="use-btn" href="/index.php?p=form_template&action=usetemplate&tid=3345062&template_plan=1" rel="nofollow" >Use template</a>        </div>
+        <span class="preview" data-form-id="3345062" data-form-plan="1" data-link="/free-form-templates/Restaurant-Feedback-Form-3345062/">Preview template</span>
+
+        <div class="clearfix"></div>
+
+    </div>
+
+</div>
+<div class=" template item" >
+
+    <span class="formid hidden"></span>
+
+    <div class="template__inner template__inner--transition slidetop feedback">
+
+        <div class="plan_type gold">gold</div>
+
+        <h3>
+            <a href="/free-form-templates/Gym-Feedback-Form-3526823/" class="temp-title">Gym Feedback Form</a>
+        </h3>
+
+        <p>
+            Collect feedback from your gym members with the right form. Add this gym feedback form ...        </p>
+
+        <div class="cta black">
+            <a class="use-btn" href="/index.php?p=form_template&action=usetemplate&tid=3526823&template_plan=1" rel="nofollow" >Use template</a>        </div>
+        <span class="preview" data-form-id="3526823" data-form-plan="1" data-link="/free-form-templates/Gym-Feedback-Form-3526823/">Preview template</span>
+
+        <div class="clearfix"></div>
+
+    </div>
+
+</div>
+<div class=" template item" >
+
+    <span class="formid hidden"></span>
+
+    <div class="template__inner template__inner--transition slidetop feedback">
+
+        <div class="plan_type free">free</div>
+
+        <h3>
+            <a href="/free-form-templates/Spa-Feedback-Form-3485065/" class="temp-title">Spa Feedback Form</a>
+        </h3>
+
+        <p>
+            Add this spa feedback form template to your website with 123FormBuilder. Edit the templ...        </p>
+
+        <div class="cta black">
+            <a class="use-btn" href="/index.php?p=form_template&action=usetemplate&tid=3485065&template_plan=0" rel="nofollow" >Use template</a>        </div>
+        <span class="preview" data-form-id="3485065" data-form-plan="0" data-link="/free-form-templates/Spa-Feedback-Form-3485065/">Preview template</span>
+
+        <div class="clearfix"></div>
+
+    </div>
+
+</div>
+<div class=" template item" >
+
+    <span class="formid hidden"></span>
+
+    <div class="template__inner template__inner--transition slidetop feedback">
+
+        <div class="plan_type gold">gold</div>
+
+        <h3>
+            <a href="/free-form-templates/Fitness-Feedback-Form-3432161/" class="temp-title">Fitness Feedback Form</a>
+        </h3>
+
+        <p>
+            Add this fitness feedback form template to your website with 123FormBuilder. Edit the t...        </p>
+
+        <div class="cta black">
+            <a class="use-btn" href="/index.php?p=form_template&action=usetemplate&tid=3432161&template_plan=1" rel="nofollow" >Use template</a>        </div>
+        <span class="preview" data-form-id="3432161" data-form-plan="1" data-link="/free-form-templates/Fitness-Feedback-Form-3432161/">Preview template</span>
+
+        <div class="clearfix"></div>
+
+    </div>
+
+</div>
+<div class=" template item" >
+
+    <span class="formid hidden"></span>
+
+    <div class="template__inner template__inner--transition slidetop feedback">
+
+        <div class="plan_type gold">gold</div>
+
+        <h3>
+            <a href="/free-form-templates/Work-Experience-Feedback-Form-3883985/" class="temp-title">Work Experience Feedback Form</a>
+        </h3>
+
+        <p>
+            Obtain feedback on your work experience with the help of this form. Customize this work...        </p>
+
+        <div class="cta black">
+            <a class="use-btn" href="/index.php?p=form_template&action=usetemplate&tid=3883985&template_plan=1" rel="nofollow" >Use template</a>        </div>
+        <span class="preview" data-form-id="3883985" data-form-plan="1" data-link="/free-form-templates/Work-Experience-Feedback-Form-3883985/">Preview template</span>
+
+        <div class="clearfix"></div>
+
+    </div>
+
+</div>                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    
+    <section id="explorer">
+        <div class="container">
+            <div class="row">
+                <div class="display-table">
+                    <div class="col-lg-4 col-lg-offset-2 col-md-6 col-md-offset-1 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0">
+                        <div class="ready">
+                            Ready to get started?
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-sm-12 col-md-4 col-md-offset-0 col-sm-offset-0 col-xs-12 col-xs-offset-0 use">
+                        <div class="cta yellow">
+                            <a class="use-btn" href="/index.php?p=form_template&action=usetemplate&tid=275157&template_plan=0" rel="nofollow" >Use template</a>                        </div>
+                        <span>or <span>explore <a href="/free-form-templates/">more templates</a>.</span></span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section id="logos">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <ul>
+                        <li><img src="//staticresources123.myfor.ms/site/other/landings/free-form-templates/nikon.png" alt="nikon"></li><li><img src="//staticresources123.myfor.ms/site/other/landings/free-form-templates/univ-arkansas.png" alt="univ-arkansas"></li><li><img src="//staticresources123.myfor.ms/site/other/landings/free-form-templates/aiesec.png" alt="aiesec"></li><li><img src="//staticresources123.myfor.ms/site/other/landings/free-form-templates/dc-fire.png" alt="dc-fire"></li><li><img src="//staticresources123.myfor.ms/site/other/landings/free-form-templates/save-the-bay.png" alt="save-the-bay"></li><li><img src="//staticresources123.myfor.ms/site/other/landings/free-form-templates/how-to-web.png" alt="how-to-web"></li><li><img src="//staticresources123.myfor.ms/site/other/landings/free-form-templates/think-edu.png" alt="think-edu"></li>                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</div>            </section>
+
+
+
+
+<div class=\"clearFloat\"></div> <div class="stickyCookieAlert"><span class="cookieText">This website is using cookies. By continuing to browse, you are<br/> agreeing to our use of cookies as explained in our <a class="blueLink99" href="/cookie-policy/">Cookie Policy</a>. <a id="ajaxAcknowledgeCookie" type="button" onClick="acknowledgeCookie('Sat, 10 Aug 2019');">OK</a></span></div>     <div class="clearFloat"></div>
+    <!--</div>-->
+    <div class='bootstrap-iso'>
+    <div id="footer_v2" class="fe_footer">
+        
+        <div class="container">
+            <div id="footer_content_v2" class="responsive-accordion responsive-accordion-default bm-larger">
+                <div class="row" id="footer-links">
+
+                    <div class=" col-md-2 col-sm-12 col-xs-12">
+                        <div class="footer_title responsive-accordion-head">Solutions<span class="i-md i123-expand responsive-accordion-down" aria-hidden="true"></span> <span class="i-md i123-collapse responsive-accordion-up" aria-hidden="true"></span></div>
+                        <div class="footer_links responsive-accordion-panel">
+                            <div><a class="footer-item-link" href="/" title="Small Businesses" >Small Businesses</a></div>
+                                                            <div><a class="footer-item-link" href="/corporate/" title="Corporate" >Corporate</a></div>
+                                                    </div>
+                    </div>
+                    <div class=" col-md-2 col-sm-12 col-xs-12">
+                        <div class="footer_title responsive-accordion-head">Company <span class="i-md i123-expand responsive-accordion-down" aria-hidden="true"></span> <span class="i-md i123-collapse responsive-accordion-up" aria-hidden="true"></span></div>
+                        <div class="footer_links responsive-accordion-panel">
+                            <div><a class="footer-item-link" href="/aboutus.html" title="About Us" >About Us</a></div>
+                                                            <div><a class="footer-item-link" href="/careers/" title="Careers" >Careers</a></div>
+                                                        <div><a class="footer-item-link" href="/contactus.html" title="Contact Us" >Contact Us</a></div>
+                            <div><a class="footer-item-link" href="/sitemap.html" title="Sitemap" >Sitemap</a></div>
+                        </div>
+
+                    </div>
+                    <div class=" col-md-2 col-sm-12 col-xs-12 display_footer_none ">
+                        <div class="footer_title responsive-accordion-head">Legal  <span class="i-md i123-expand responsive-accordion-down" aria-hidden="true"></span> <span class="i-md i123-collapse responsive-accordion-up" aria-hidden="true"></span></div>
+                        <div class="footer_links responsive-accordion-panel">
+                            <div><a class="footer-item-link" href="/termsofservice.html" title="Terms Of Service" >Terms Of Service</a></div>
+                            <div><a class="footer-item-link" href="/privacy.html" title="Privacy" >Privacy</a></div>
+                            <div><a class="footer-item-link" href="/contactus.html" title="Report Abuse" >Report Abuse</a></div>
+                        </div>
+                    </div>
+                    <div class=" col-md-2 col-sm-12 col-xs-12 ">
+                        <div class="footer_title responsive-accordion-head">Language  <span class="i-md i123-expand responsive-accordion-down" aria-hidden="true"></span> <span class="i-md i123-collapse responsive-accordion-up" aria-hidden="true"></span></div>
+                        <div class="footer_links responsive-accordion-panel">
+
+                            
+			<div class=" footer_links">
+
+				<div class="footer-language"><a href="/index.php?p=setselectedlanguage&lng=en">English</a></div> <div class="footer-language"><a href="/es/">Español</a></div> <div class="footer-language"><a href="/pt/">Português</a></div> <div class="footer-language"><a href="/ru/">???????</a></div> <div class="footer-language"><a href="/fr/">Français</a></div> <div class="footer-language"><a href="/nl/">Nederlands</a></div> <div class="footer-language"><a href="/de/">Deutsch</a></div>
+			</div>
+			                        </div>
+                    </div>
+                    <div class=" col-md-2 col-sm-12 col-xs-12 display_footer_none">
+                        <div class="footer_title responsive-accordion-head">Resources  <span class="i-md i123-expand responsive-accordion-down" aria-hidden="true"></span> <span class="i-md i123-collapse responsive-accordion-up" aria-hidden="true"></span></div>
+                        <div class="footer_links responsive-accordion-panel">
+                            <div><a class="footer-item-link" href="/blog/" title="Blog">Blog</a></div>
+                            <div><a class="footer-item-link" href="/docs/" title="Knowledge Base">Knowledge Base </a></div>
+                        </div>
+
+                        <div class="display_social_no">
+                                    
+         <div class="social-footer">
+            <div class="footer_title">Follow us</div>
+            <div class="footer_links_social">
+                <a class="socialLink" href="//www.facebook.com/123FormBuilder" title="Facebook"><span class="i-md i123-facebook-full" aria-hidden="true"></span></a>
+                <a class="socialLink" href="//twitter.com/123FormBuilder" title="Twitter"><span class="i-md i123-twitter-full" aria-hidden="true"></span></a>
+                <a class="socialLink" href="//www.linkedin.com/company/123formbuilder" title="Linkedin"><span class="i-md i123-linkedin-full" aria-hidden="true"></span></a>
+                <a class="socialLink" href="//plus.google.com/+123contactform" title="Google"><span class="i-md i123-google-plus-full" aria-hidden="true"></span></a>
+                 <a class="socialLink" href="//www.instagram.com/123formbuilder/" title="Instagram"><span class="i-md i123-instagram" aria-hidden="true"></span></a>
+            </div>
+         </div>
+                        </div>
+                    </div>
+
+
+
+                </div>
+
+                <div class="display_social_small">
+                            
+         <div class="social-footer">
+            <div class="footer_title">Follow us</div>
+            <div class="footer_links_social">
+                <a class="socialLink" href="//www.facebook.com/123FormBuilder" title="Facebook"><span class="i-md i123-facebook-full" aria-hidden="true"></span></a>
+                <a class="socialLink" href="//twitter.com/123FormBuilder" title="Twitter"><span class="i-md i123-twitter-full" aria-hidden="true"></span></a>
+                <a class="socialLink" href="//www.linkedin.com/company/123formbuilder" title="Linkedin"><span class="i-md i123-linkedin-full" aria-hidden="true"></span></a>
+                <a class="socialLink" href="//plus.google.com/+123contactform" title="Google"><span class="i-md i123-google-plus-full" aria-hidden="true"></span></a>
+                 <a class="socialLink" href="//www.instagram.com/123formbuilder/" title="Instagram"><span class="i-md i123-instagram" aria-hidden="true"></span></a>
+            </div>
+         </div>
+                </div>
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+    <div class="clearFloat"></div>
+
+</div>
+    </div>
+</div><!--end #site_wrapper-->
+
+<!--
+</div>
+</div>
+-->
+
+
+
+
+
+
+
+<!-- optimized js code -->
+<script type="text/javascript" src="https://www.123formbuilder.com/site/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.123formbuilder.com/site/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script>if ( typeof _ASL !== "undefined" && _ASL !== null && typeof _ASL.initialize !== "undefined" )
+                    _ASL.initialize();</script>
+<script type="text/javascript" src="//cdn-main.myfor.ms/includes/cookie-policy/js/cookie-policy.js?e607519201"></script>
+<script type="text/javascript" src="https://www.123formbuilder.com/site/wp-content/themes/blankslate/js/footer.js.minified.js?ver=e607519201"></script>
+<script type="text/javascript" src="https://www.123formbuilder.com/site/wp-content/themes/blankslate/js/header_menu.js.minified.js?ver=e607519201"></script>
+<script type="text/javascript" src="https://www.123formbuilder.com/site/wp-content/themes/blankslate/js/bootstrap.js?ver=e607519201"></script>
+<script type="text/javascript" src="https://www.123formbuilder.com/site/wp-content/themes/blankslate/js/owl.carousel.js?ver=e607519201"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js?ver=4.8.1"></script>
+<script type="text/javascript" src="https://www.123formbuilder.com/site/wp-content/themes/blankslate/js/landings/free-form-templates.js?ver=e607519201"></script><!-- end of optimized js code --></body>
+</html>
